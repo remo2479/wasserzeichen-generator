@@ -32,7 +32,7 @@ Diese Anleitung führt Sie durch den kompletten Prozess, Ihr Wasserzeichen-Gener
 ### Schritt 2: Repository-URL notieren
 Nach der Erstellung sehen Sie eine URL wie:
 ```
-https://github.com/[IHR-USERNAME]/wasserzeichen-generator.git
+https://github.com/remo2479/wasserzeichen-generator.git
 ```
 **Diese URL brauchen Sie gleich!**
 
@@ -88,8 +88,8 @@ git commit -m "🎉 Erste Version: Wasserzeichen-Generator mit Live-Vorschau
 
 ### Schritt 1: GitHub-Repository verbinden
 ```bash
-# Remote-Repository hinzufügen (ERSETZEN Sie [IHR-USERNAME] mit Ihrem GitHub-Username!)
-git remote add origin https://github.com/[IHR-USERNAME]/wasserzeichen-generator.git
+# Remote-Repository hinzufügen
+git remote add origin https://github.com/remo2479/wasserzeichen-generator.git
 
 # Verbindung prüfen
 git remote -v
@@ -107,7 +107,7 @@ git push -u origin main
 ## 🎉 Teil 4: Erfolg überprüfen
 
 ### Schritt 1: GitHub-Seite besuchen
-Gehen Sie zu: `https://github.com/[IHR-USERNAME]/wasserzeichen-generator`
+Gehen Sie zu: `https://github.com/remo2479/wasserzeichen-generator`
 
 **Sie sollten sehen**:
 - ✅ Alle Ihre Dateien
@@ -177,9 +177,9 @@ git push -u origin feature/neue-funktion
 ### README-Badge hinzufügen:
 Fügen Sie am Anfang Ihrer README.md hinzu:
 ```markdown
-![GitHub release](https://img.shields.io/github/release/[IHR-USERNAME]/wasserzeichen-generator.svg)
-![GitHub stars](https://img.shields.io/github/stars/[IHR-USERNAME]/wasserzeichen-generator.svg)
-![GitHub license](https://img.shields.io/github/license/[IHR-USERNAME]/wasserzeichen-generator.svg)
+![GitHub release](https://img.shields.io/github/release/remo2479/wasserzeichen-generator.svg)
+![GitHub stars](https://img.shields.io/github/stars/remo2479/wasserzeichen-generator.svg)
+![GitHub license](https://img.shields.io/github/license/remo2479/wasserzeichen-generator.svg)
 ```
 
 ### Release erstellen:
@@ -231,7 +231,7 @@ Ihr Wasserzeichen-Generator ist jetzt auf GitHub verfügbar! 🚀
 - 🐛 Sammeln Sie Feedback in Issues
 - 🔄 Entwickeln Sie neue Features
 
-**Ihr Repository**: `https://github.com/[IHR-USERNAME]/wasserzeichen-generator`
+**Ihr Repository**: `https://github.com/remo2479/wasserzeichen-generator`
 
 ---
 
