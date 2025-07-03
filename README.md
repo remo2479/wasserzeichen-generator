@@ -45,7 +45,7 @@ Ein professioneller Python-basierter Wasserzeichen-Generator mit grafischer Benu
 
 1. **Repository klonen**:
    ```bash
-   git clone https://github.com/[IHR-USERNAME]/wasserzeichen-generator.git
+   git clone https://github.com/remo2479/wasserzeichen-generator.git
    cd wasserzeichen-generator
    ```
 
@@ -130,7 +130,7 @@ wasserzeichen-generator/
 ### Lokale Entwicklung
 ```bash
 # Repository forken und klonen
-git clone https://github.com/[IHR-USERNAME]/wasserzeichen-generator.git
+git clone https://github.com/remo2479/wasserzeichen-generator.git
 cd wasserzeichen-generator
 
 # Virtual Environment erstellen
@@ -179,9 +179,9 @@ Dieses Projekt steht unter der MIT-Lizenz. Siehe [LICENSE](LICENSE) für Details
 
 Haben Sie einen Bug gefunden oder eine Funktionsanfrage?
 
-- **Bug-Reports**: [Issues auf GitHub](https://github.com/[IHR-USERNAME]/wasserzeichen-generator/issues)
+- **Bug-Reports**: [Issues auf GitHub](https://github.com/remo2479/wasserzeichen-generator/issues)
 - **Feature-Requests**: Beschreiben Sie Ihre Idee in einem Issue
-- **Diskussionen**: [Discussions-Bereich](https://github.com/[IHR-USERNAME]/wasserzeichen-generator/discussions)
+- **Diskussionen**: [Discussions-Bereich](https://github.com/remo2479/wasserzeichen-generator/discussions)
 
 ## 📞 Kontakt & Support
 
