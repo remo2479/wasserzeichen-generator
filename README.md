@@ -64,7 +64,7 @@ Ein professioneller Python-basierter Wasserzeichen-Generator mit grafischer Benu
 - **Windows**: 7, 8, 10, 11
 - **Python**: 3.7+ (nur für Entwicklung)
 - **RAM**: Mindestens 512 MB
-- **Speicher**: 50 MB freier Speicherplatz
+- **Speicher**: 51 MB freier Speicherplatz
 
 ## 🎯 Schnellstart
 
